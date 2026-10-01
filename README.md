@@ -14,9 +14,13 @@ The Founder Preview is prerelease software for invited U.S. testers age 18 or ol
 
 ## Install
 
-Use the installer link supplied with your invitation. Windows should handle installation through its normal trusted application installation experience. You should not need PowerShell, Developer Mode, Visual Studio, an SDK, or manual certificate installation.
+**[Install DEMITROMI Founder Preview 0.1.1](DEMITROMI.appinstaller)**
 
-The release package is signed by Michael Dimitrov using Microsoft Artifact Signing.
+If your browser downloads `DEMITROMI.appinstaller` instead of opening it automatically, open the downloaded file and choose **Install** in Windows App Installer.
+
+Windows should handle installation through its normal trusted application installation experience. You should not need PowerShell, Developer Mode, Visual Studio, an SDK, repository access, or manual certificate installation.
+
+The release package is signed by Michael Dimitrov using Microsoft Artifact Signing. Windows App Installer is configured to check this DEMITROMI update channel when the app launches.
 
 ## Privacy
 
