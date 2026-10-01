@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+    xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2"
+    Uri="https://Demitromi.github.io/demitromi-releases/DEMITROMI.appinstaller"
+    Version="1.1.1.0">
+  <MainPackage
+      Name="ProjectAtlas.Atlas"
+      Publisher="CN=Michael Dimitrov, O=Michael Dimitrov, L=Camp Verde, S=az, C=US"
+      Version="0.1.1.0"
+      ProcessorArchitecture="x64"
+      Uri="https://github.com/Demitromi/demitromi-releases/releases/download/v0.1.1/DEMITROMI-0.1.1.0-x64.msix" />
+  <UpdateSettings>
+    <OnLaunch />
+  </UpdateSettings>
+</AppInstaller>
